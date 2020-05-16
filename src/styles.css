@@ -2151,7 +2151,7 @@ a,button,.btn{outline:none !important }
 .app-header .header-user-info>.widget-heading,.app-header .header-user-info>.widget-subheading{white-space:nowrap }
 .app-header .header-user-info>.widget-subheading{font-size:.8rem }
 .app-header__logo{padding:0 1.5rem;height:60px;width:280px;display:flex;align-items:center;transition:width .2s }
-.app-header__logo .logo-src{height:23px;width:97px;background:url(assets/images/logo-inverse.png) }
+.app-header__logo .logo-src{height:198px;width:200px;background:url(assets/images/logo-inverse.png) }
 .app-header__menu,.app-header__mobile-menu{display:none;padding:0 1.5rem;height:60px;align-items:center }
 .fixed-header .app-header{position:fixed;width:100%;top:0 }
 .fixed-header .app-header .app-header__logo{visibility:visible }
